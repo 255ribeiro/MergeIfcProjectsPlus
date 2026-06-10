@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 
 id = "merge_project_plus"
-version = "0.1.2"
+version = "0.1.3"
 name = "BIM: Merge Project Plus"
 tagline = "Requires Bonsai (BIM) · Merge linked + manual IFC files into one"
 maintainer = "Fernando Ferraz Ribeiro <ffribeiro@gmail.com>"
