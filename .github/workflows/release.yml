@@ -17,7 +17,7 @@ jobs:
       - name: Build extension zip
         run: |
           VERSION="${GITHUB_REF_NAME#v}"
-          ZIP="merge_project_plus-${VERSION}.zip"
+          ZIP="merge_projects_plus-${VERSION}.zip"
           zip "$ZIP" __init__.py mergeProjectsPlus.py blender_manifest.toml README.md
           echo "ZIP=$ZIP" >> "$GITHUB_ENV"
 

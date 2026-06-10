@@ -1,13 +1,13 @@
 schema_version = "1.0.0"
 
-id = "merge_project_plus"
-version = "0.1.3"
-name = "BIM: Merge Project Plus"
+id = "merge_projects_plus"
+version = "0.1.4"
+name = "BIM: Merge Projects Plus"
 tagline = "Requires Bonsai (BIM) · Merge linked + manual IFC files into one"
 maintainer = "Fernando Ferraz Ribeiro <ffribeiro@gmail.com>"
 type = "add-on"
 tags = ["Import-Export", "Scene"]
-website = "https://github.com/ffribeiro/MergIfcProjectsPlus"
+website = "https://github.com/ffribeiro/MergeIfcProjectsPlus"
 
 blender_version_min = "4.2.0"
 
